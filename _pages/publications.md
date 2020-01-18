@@ -12,6 +12,7 @@ author_profile: true
 B. Metevier, S. Giguere, *S. Brockman*, A. Kobren, Y. Brun, E. Brunskill, and P. S. Thomas. Offline Contextual Bandits with High Probability Fairness Guarantees. In *Advances in Neural Information Processing Systems*, 2019. ([PDF](../files/neurips_paper.pdf))
 
 </br>
+
 ## Other papers
 
 Undergraduate honors thesis: *Precluding Discriminatory Behavior in Intelligent Tutoring Systems* ([PDF](../files/Honors_Thesis.pdf))
