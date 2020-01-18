@@ -39,8 +39,8 @@ staticman:
   moderation             : true
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
+  #transforms:
+  #  email                : "md5"
   generatedFields:
     date:
       type               : "date"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sarah Brockman"
   avatar           : "site_image.jpg"
-  bio              : "CS Masters student"
+  bio              : 
   location         : "UMass Amherst"
   employer         :
   pubmed           : 
