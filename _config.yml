@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Sarah Brockman"
   avatar           : "site_image.jpg"
-  bio              : 
+  bio              : email: sbrockman at cs dot umass dot edu
   location         : "UMass Amherst"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : sbrockman at cs dot umass dot edu
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -107,7 +107,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : "http://steamcommunity.com/id/broccy/"
+  steam            : "broccy"
   tumblr           :
   twitter          : 
   vine             :
