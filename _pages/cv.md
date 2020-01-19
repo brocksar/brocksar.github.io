@@ -11,49 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, B.S. Computational, Applied Mathematics; Statistics, UMass Amherst, 2015
+* M.S. in Computer Science, concentration in Data Science, UMass Amherst, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Machine Learning Intern - Cyber Operations and Analysis Technology
+  * MIT Lincoln Laboratory
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2018: Machine Learning Intern - Space Systems Analysis and Test
+  * MIT Lincoln Laboratory
   
-Skills
+* Summer 2017: Software Engineering Intern
+  * Knolls Atomic Power Laboratory
+
+Teaching
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Undergraduate course assistant
+  * Fall 2018 - Introduction to Programming (Java)
+  * Spring 2019 - Artificial Intelligence (Python)
+* Graduate Teaching Assistant 
+  * Introduction to Computation (theory of computation)
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* B. Metevier, S. Giguere, S. Brockman, A. Kobren, Y. Brun, E. Brunskill, and P. S. Thomas. Offline Contextual Bandits with High Probability Fairness Guarantees. In *Advances in Neural Information Processing Systems*, 2019.
+* Sierchio, J.M., Birge, J., Brockman, S., et al. Deep Learning for Space Object Identification.
+In *AFRL Space Situational Awareness Conference (SSA)*, 2018. (Not publicly released)
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
+Awards and Scholarships
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Baystate Fellowship, ACM travel award
