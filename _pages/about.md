@@ -18,4 +18,5 @@ If you'd like to learn more about the fairness work going on at UMass, head on o
 On the non-academic side of things, I enjoy hiking (currently working towards hiking all 46 high peaks in the Adirondacks), reading, playing video games, and recently baking.
 
 
-![alt text](../images/upper_wolfjaw.jpg)
+![alt text](../images/upper_wolfjaw.JPG)
+Summit of Upper Wolfjaw, ADK High Peaks, New York
