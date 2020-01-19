@@ -27,7 +27,7 @@ Work experience
 
 Teaching
 ======
-* Undergraduate course assistant
+* Undergraduate Course Assistant
   * Fall 2018 - Introduction to Programming (Java)
   * Spring 2019 - Artificial Intelligence (Python)
 * Graduate Teaching Assistant 
