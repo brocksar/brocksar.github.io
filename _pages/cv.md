@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, B.S. Computational, Applied Mathematics; Statistics, UMass Amherst, 2015
+* B.S. in Computer Science, B.S. Computational, Applied Mathematics; Statistics, UMass Amherst, 2019
 * M.S. in Computer Science, concentration in Data Science, UMass Amherst, 2021 (expected)
 
 Work experience
