@@ -11,7 +11,8 @@ J.M. Sierchio, J. Birge, *S. Brockman*, et al. Deep Learning for Space Object Id
 <br>
 
 
-# Other papers ###### Note: The names of collaborators of non-published works are redacted for privacy
+# Other papers 
+###### Note: The names of collaborators of non-published works are redacted for privacy
 
 Undergraduate honors thesis: *Precluding Discriminatory Behavior in Intelligent Tutoring Systems*  ([PDF](../files/Honors_Thesis.pdf))
 
