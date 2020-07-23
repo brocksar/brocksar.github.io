@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-My name is Sarah and I am currently a Computer Science Masters student at the University of Massachusetts Amherst. 
+My name is Sarah and I am currently a Computer Science masters student at the University of Massachusetts, Amherst. 
 
 During my time at UMass, I have worked in the Laboratory for Advanced Software Engineering Research ([LASER](http://laser.cs.umass.edu/)) with Prof. Yuriy Brun and the Autonomous Learning Lab ([ALL](http://www-anw.cs.umass.edu/)) with Prof. Phil Thomas. Most of this work has concerned fairness in machine learning, an example of which can be found in our [2019 NeurIPS paper](https://papers.nips.cc/paper/9630-offline-contextual-bandits-with-high-probability-fairness-guarantees) on fairness with contextual bandits. If you'd like to learn more about the fairness work going on at UMass, head on over to [aisafety.cs.umass.edu](https://aisafety.cs.umass.edu/about.html).
 
