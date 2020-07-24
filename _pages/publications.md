@@ -16,7 +16,7 @@ J.M. Sierchio, J. Birge, **S. Brockman**, et al. Deep Learning for Space Object 
 
 Undergraduate honors thesis: *Precluding Discriminatory Behavior in Intelligent Tutoring Systems*  ([PDF](../files/Honors_Thesis.pdf))
 
-Finaly project for advanced NLP class: *Measuring Embedding Efficacy in Capturing Review Contents* ([PDF](../files/685_final_project.pdf))
+Final project for advanced NLP class: *Measuring Embedding Efficacy in Capturing Review Contents* ([PDF](../files/685_final_project.pdf))
 
 Final project for neural nets class: *Measuring Sentiment Preservation in Neural Language Models*  ([PDF](../files/682finalproject.pdf))
 
