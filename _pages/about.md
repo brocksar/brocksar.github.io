@@ -15,7 +15,7 @@ During my time at UMass, I have worked in the Laboratory for Advanced Software E
 
 In December 2019, I had the chance to attend NeurIPS in Vancouver, Canada to present our paper. Check it out [here](https://women.acm.org/scholars/acm-w-scholars/sarah-brockman/)!
 
-Over the past few years I've also had the opportunity to intern at some great places. Check out my [resume](../files/resume_fall_2019.pdf) to learn more about these experiences. I am most interested in the combination of machine learning and software engineering, to create efficient and practical tools that leverage the benefits of ML.
+Over the past few years I've also had the opportunity to intern at some great places. Check out my [resume](../files/resume_2020.pdf) to learn more about these experiences. I am most interested in the combination of machine learning and software engineering, to create efficient and practical tools that leverage the benefits of ML.
 
 On the non-academic side of things, I enjoy hiking (currently working towards hiking all 46 high peaks in the Adirondacks), reading, playing video games, and travelling. 
 
