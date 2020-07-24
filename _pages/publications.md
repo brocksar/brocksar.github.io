@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-B. Metevier, S. Giguere, *S. Brockman*, A. Kobren, Y. Brun, E. Brunskill, and P. S. Thomas. Offline Contextual Bandits with High Probability Fairness Guarantees. In *Advances in Neural Information Processing Systems*, 2019. ([PDF](../files/neurips_paper.pdf))
+B. Metevier, S. Giguere, **S. Brockman**, A. Kobren, Y. Brun, E. Brunskill, and P. S. Thomas. Offline Contextual Bandits with High Probability Fairness Guarantees. In *Advances in Neural Information Processing Systems*, 2019. ([PDF](../files/neurips_paper.pdf))
 
-J.M. Sierchio, J. Birge, *S. Brockman*, et al. Deep Learning for Space Object Identification. In *AFRL Space Situational Awareness Conference (SSA)*, 2018. (Not publicly released; DoD conference) <br>
+J.M. Sierchio, J. Birge, **S. Brockman**, et al. Deep Learning for Space Object Identification. In *AFRL Space Situational Awareness Conference (SSA)*, 2018. (Not publicly released; DoD conference) <br>
 <br>
 
 
