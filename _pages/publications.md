@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+A. Chambers, A. Stringfellow, B. Luo, S. Underwood, T. Allard, I. Johnston, **S. Brockman**, L. Shing, A. Wollaber and C. Vandam. Automated Business Process Discovery from Unstructured Natural-Language Documents. In *International Conference on Process Mining*, 2020.
+
 B. Metevier, S. Giguere, **S. Brockman**, A. Kobren, Y. Brun, E. Brunskill, and P. S. Thomas. Offline Contextual Bandits with High Probability Fairness Guarantees. In *Advances in Neural Information Processing Systems*, 2019. ([PDF](https://papers.nips.cc/paper/9630-offline-contextual-bandits-with-high-probability-fairness-guarantees.pdf))
 
 J.M. Sierchio, J. Birge, **S. Brockman**, et al. Deep Learning for Space Object Identification. In *AFRL Space Situational Awareness Conference (SSA)*, 2018. (Not publicly released; DoD conference) <br>
